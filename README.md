@@ -1,14 +1,5 @@
-# Hook Landing Page Theme
+# Gaming Ace
 
-This landing page theme is built on [shorthand css framework](https://github.com/shorthandcss/shorthand)
+Ce site web (entièrement en français) sera une plateformede jeux en ligne conçus par nous.
 
-![preview](/preview.jpg)
-
-## Credit
-
-* Picture [unsplash](https://unsplash.com)
-* Icons [feathericons](https://feathericons.com)
-
-## LICENSE
-
-The theme is available under the MIT License.
+Visitez-le maintenant : [Gaming Ace]('http://www.gaming-ace.ml')
